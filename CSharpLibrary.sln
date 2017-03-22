@@ -7,9 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.01_Intro", "0.01_Intro\0.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.02_BasicTypes", "0.02_BasicTypes\0.02_BasicTypes.csproj", "{13456BC6-56F1-4690-B689-0526C5F56ABC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.02BasicTypes_Challenges", "0.02BasicTypes_Challenges\0.02BasicTypes_Challenges.csproj", "{A2564E30-CAB6-4849-8E1C-E5E287D70DA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.02_BasicTypes_Challenges", "0.02BasicTypes_Challenges\0.02_BasicTypes_Challenges.csproj", "{A2564E30-CAB6-4849-8E1C-E5E287D70DA5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.03_Strings", "0.03_Strings\0.03_Strings.csproj", "{1244B94C-26EB-4E93-B7DE-CD57E4D1826F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_Conditional_If", "0.04_Conditional_If\0.04_Conditional_If.csproj", "{A24A9375-ECAE-4DD6-9E11-0424F90B3BEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1244B94C-26EB-4E93-B7DE-CD57E4D1826F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1244B94C-26EB-4E93-B7DE-CD57E4D1826F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1244B94C-26EB-4E93-B7DE-CD57E4D1826F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24A9375-ECAE-4DD6-9E11-0424F90B3BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24A9375-ECAE-4DD6-9E11-0424F90B3BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24A9375-ECAE-4DD6-9E11-0424F90B3BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24A9375-ECAE-4DD6-9E11-0424F90B3BEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

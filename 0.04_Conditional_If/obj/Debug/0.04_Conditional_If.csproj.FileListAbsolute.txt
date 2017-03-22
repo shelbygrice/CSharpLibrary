@@ -1,0 +1,6 @@
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional_If\bin\Debug\0.04_Conditional_If.exe.config
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional_If\bin\Debug\0.04_Conditional_If.exe
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional_If\bin\Debug\0.04_Conditional_If.pdb
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional_If\obj\Debug\0.04_Conditional_If.csprojResolveAssemblyReference.cache
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional_If\obj\Debug\0.04_Conditional_If.exe
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional_If\obj\Debug\0.04_Conditional_If.pdb
