@@ -1,0 +1,6 @@
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.csprojResolveAssemblyReference.cache
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.exe.config
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.exe
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.pdb
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.exe
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.pdb
