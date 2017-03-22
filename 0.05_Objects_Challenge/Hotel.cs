@@ -11,7 +11,5 @@ namespace _0._05_Objects_Challenge
         public int RoomNumber { get; set; }
         public bool IsAvailable { get; set; }
         public int NumBeds { get; set; }
-
-        
     }
 }
