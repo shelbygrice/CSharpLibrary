@@ -1,0 +1,5 @@
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.02BasicTypes_Challenges\bin\Debug\0.02BasicTypes_Challenges.exe.config
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.02BasicTypes_Challenges\bin\Debug\0.02BasicTypes_Challenges.exe
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.02BasicTypes_Challenges\bin\Debug\0.02BasicTypes_Challenges.pdb
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.02BasicTypes_Challenges\obj\Debug\0.02BasicTypes_Challenges.exe
+c:\users\shelby grice\documents\visual studio 2017\Projects\CSharpLibrary\0.02BasicTypes_Challenges\obj\Debug\0.02BasicTypes_Challenges.pdb
