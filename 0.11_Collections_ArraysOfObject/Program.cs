@@ -24,11 +24,16 @@ namespace _0._11_Collections_ArraysOfObject
             countries[9] = new Country("South Korea", "Seoul");
 
             foreach (var country in countries)
+            //{
+            //    Console.WriteLine(country.Name);
+            //    Console.WriteLine(country.Capital);
+            //}
             {
-                Console.WriteLine(country.Name);
+                country.PrintCountryDetails();
             }
 
-            Console.ReadLine();
+
+                Console.ReadLine();
             
 
         }

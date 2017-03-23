@@ -3,3 +3,4 @@ C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.10_F
 C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.10_For_Each_Loops\bin\Debug\0.10_For_Each_Loops.pdb
 C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.10_For_Each_Loops\obj\Debug\0.10_For_Each_Loops.exe
 C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.10_For_Each_Loops\obj\Debug\0.10_For_Each_Loops.pdb
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.10_For_Each_Loops\obj\Debug\0.10_For_Each_Loops.csprojResolveAssemblyReference.cache

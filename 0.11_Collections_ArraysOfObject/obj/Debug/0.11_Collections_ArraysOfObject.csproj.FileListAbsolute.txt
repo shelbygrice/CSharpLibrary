@@ -1,0 +1,5 @@
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.11_Collections_ArraysOfObject\bin\Debug\0.11_Collections_ArraysOfObject.exe.config
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.11_Collections_ArraysOfObject\bin\Debug\0.11_Collections_ArraysOfObject.exe
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.11_Collections_ArraysOfObject\bin\Debug\0.11_Collections_ArraysOfObject.pdb
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.11_Collections_ArraysOfObject\obj\Debug\0.11_Collections_ArraysOfObject.exe
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.11_Collections_ArraysOfObject\obj\Debug\0.11_Collections_ArraysOfObject.pdb
