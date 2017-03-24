@@ -1,0 +1,6 @@
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.12_AccessModifiers\bin\Debug\0.12_AccessModifiers.exe.config
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.12_AccessModifiers\bin\Debug\0.12_AccessModifiers.exe
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.12_AccessModifiers\bin\Debug\0.12_AccessModifiers.pdb
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.12_AccessModifiers\obj\Debug\0.13_AccessModifiers.csprojResolveAssemblyReference.cache
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.12_AccessModifiers\obj\Debug\0.12_AccessModifiers.exe
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.12_AccessModifiers\obj\Debug\0.12_AccessModifiers.pdb
