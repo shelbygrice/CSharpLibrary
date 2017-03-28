@@ -1,0 +1,5 @@
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.015_Bonus_SpeechSynthesizer\bin\Debug\0.015_Bonus_SpeechSynthesizer.exe.config
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.015_Bonus_SpeechSynthesizer\bin\Debug\0.015_Bonus_SpeechSynthesizer.exe
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.015_Bonus_SpeechSynthesizer\bin\Debug\0.015_Bonus_SpeechSynthesizer.pdb
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.015_Bonus_SpeechSynthesizer\obj\Debug\0.015_Bonus_SpeechSynthesizer.exe
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.015_Bonus_SpeechSynthesizer\obj\Debug\0.015_Bonus_SpeechSynthesizer.pdb

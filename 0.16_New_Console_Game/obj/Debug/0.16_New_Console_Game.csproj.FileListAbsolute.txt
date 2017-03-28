@@ -1,0 +1,6 @@
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.16_New_Console_Game\bin\Debug\0.16_New_Console_Game.exe.config
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.16_New_Console_Game\bin\Debug\0.16_New_Console_Game.exe
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.16_New_Console_Game\bin\Debug\0.16_New_Console_Game.pdb
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.16_New_Console_Game\obj\Debug\0.16_New_Console_Game.exe
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.16_New_Console_Game\obj\Debug\0.16_New_Console_Game.pdb
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.16_New_Console_Game\obj\Debug\0.16_New_Console_Game.csprojResolveAssemblyReference.cache

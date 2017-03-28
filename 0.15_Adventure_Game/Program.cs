@@ -33,14 +33,33 @@ namespace _0._15_Adventure_Game
             player.BattleCry();
 
             Troll troll = new Troll();
+            while (true)
+            {
+                Console.WriteLine("Do you want to continue? y/n");
+                string userAnswer = Console.ReadLine();
+                if (userAnswer == "y")
+                {
+                    troll.TrollAttack(player);
+                    if (player.CurrentPower <= 0 )
+                    {
+                        Console.WriteLine("Sorry, you died. Tough loss.");
+                        break;
+                    }
+                }
+                else
+                {
+                    break;
+                }
+                break;
+            }
+           
+            troll.TrollAttack(player);
 
-            troll.Insult();
-            //Enemy quagga = new Enemy();
+            Console.WriteLine(player.CurrentPower);
+            Console.WriteLine("This is a new attack");
 
-            
-            
-            //quagga.Insult();
-            
+            troll.TrollAttack(player);
+
             Console.ReadLine();
         }
     }
