@@ -1,0 +1,6 @@
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.19_Linq\bin\Debug\0.19_Linq.exe.config
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.19_Linq\bin\Debug\0.19_Linq.exe
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.19_Linq\bin\Debug\0.19_Linq.pdb
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.19_Linq\obj\Debug\0.19_Linq.csprojResolveAssemblyReference.cache
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.19_Linq\obj\Debug\0.19_Linq.exe
+C:\Users\Shelby Grice\documents\visual studio 2017\Projects\CSharpLibrary\0.19_Linq\obj\Debug\0.19_Linq.pdb
