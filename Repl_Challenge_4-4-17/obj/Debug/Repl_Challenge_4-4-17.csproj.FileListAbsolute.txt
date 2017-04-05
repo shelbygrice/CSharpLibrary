@@ -1,0 +1,6 @@
+C:\Users\Shelby Grice\Documents\Visual Studio 2017\Projects\CSharpLibrary\Repl_Challenge_4-4-17\bin\Debug\Repl_Challenge_4-4-17.exe.config
+C:\Users\Shelby Grice\Documents\Visual Studio 2017\Projects\CSharpLibrary\Repl_Challenge_4-4-17\bin\Debug\Repl_Challenge_4-4-17.exe
+C:\Users\Shelby Grice\Documents\Visual Studio 2017\Projects\CSharpLibrary\Repl_Challenge_4-4-17\bin\Debug\Repl_Challenge_4-4-17.pdb
+C:\Users\Shelby Grice\Documents\Visual Studio 2017\Projects\CSharpLibrary\Repl_Challenge_4-4-17\obj\Debug\Repl_Challenge_4-4-17.csprojResolveAssemblyReference.cache
+C:\Users\Shelby Grice\Documents\Visual Studio 2017\Projects\CSharpLibrary\Repl_Challenge_4-4-17\obj\Debug\Repl_Challenge_4-4-17.exe
+C:\Users\Shelby Grice\Documents\Visual Studio 2017\Projects\CSharpLibrary\Repl_Challenge_4-4-17\obj\Debug\Repl_Challenge_4-4-17.pdb

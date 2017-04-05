@@ -1,0 +1,6 @@
+C:\Users\Shelby Grice\Documents\Visual Studio 2017\Projects\CSharpLibrary\Brain_Talk\bin\Debug\Brain_Talk.exe.config
+C:\Users\Shelby Grice\Documents\Visual Studio 2017\Projects\CSharpLibrary\Brain_Talk\bin\Debug\Brain_Talk.exe
+C:\Users\Shelby Grice\Documents\Visual Studio 2017\Projects\CSharpLibrary\Brain_Talk\bin\Debug\Brain_Talk.pdb
+C:\Users\Shelby Grice\Documents\Visual Studio 2017\Projects\CSharpLibrary\Brain_Talk\obj\Debug\Brain_Talk.csprojResolveAssemblyReference.cache
+C:\Users\Shelby Grice\Documents\Visual Studio 2017\Projects\CSharpLibrary\Brain_Talk\obj\Debug\Brain_Talk.exe
+C:\Users\Shelby Grice\Documents\Visual Studio 2017\Projects\CSharpLibrary\Brain_Talk\obj\Debug\Brain_Talk.pdb

@@ -27,7 +27,7 @@ namespace _0._19_Linq
                        select car;
             foreach (var bmw in bmws)
             {
-                Console.WriteLine("The {0} {1} {2} is a nice used car that costs {3:C}.", bmw.Year, bmw.Make, bmw.Model, bmw.Price); 
+                //Console.WriteLine("The {0} {1} {2} is a nice used car that costs {3:C}.", bmw.Year, bmw.Make, bmw.Model, bmw.Price); 
             }
 
             var prices = from car in usedCars
@@ -35,31 +35,51 @@ namespace _0._19_Linq
                          select car;
             foreach (var price in prices)
             {
-                Console.WriteLine("The {0} {1} is more affordable at {2:C}", price.Make, price.Model, price.Price);
+                //Console.WriteLine("The {0} {1} is more affordable at {2:C}", price.Make, price.Model, price.Price);
             }
-            Console.WriteLine("");
-            Console.WriteLine("LINQ with Lambda");
+            //Console.WriteLine("");
+            //Console.WriteLine("LINQ with Lambda");
             var toyotas = usedCars.Where(car => car.Make == "Toyota");
             foreach (var toyota in toyotas)
             {
-                Console.WriteLine(toyota.Model);
+                //Console.WriteLine(toyota.Model);
             }
 
             var niceUsedCars = usedCars.Where(car => car.Price > 7500 && car.Make == "BMW" || car.Make == "Ford");
             foreach (var niceUsedCar in niceUsedCars)
             {
-                Console.WriteLine(niceUsedCar.Model);
+                //    Console.WriteLine(niceUsedCar.Model);
+                //}
+                //Console.ReadLine();
+
+                Console.WriteLine("What are you looking for in a car today?");
+                var input = Console.ReadLine();
+                Console.WriteLine("Please enter the amount you would like to spend:");
+                int budget = Int32.Parse(Console.ReadLine());
+                var shopCars = from car in usedCars
+                               where
+          car.VIN == input ||
+          car.Make == input ||
+          car.Model == input &&
+          car.Price <= budget
+                               select car;
+                foreach (var shopCar in shopCars)
+                {
+                    Console.WriteLine("The {0} {1} {2} is affordable and within your parameters.", shopCar.Year, shopCar.Make, shopCar.Model);
+                    Console.ReadLine();
+                }
+
             }
-            Console.ReadLine();
+        }
+
+        class UsedCar
+        {
+            public string VIN { get; set; }
+            public string Make { get; set; }
+            public string Model { get; set; }
+            public int Year { get; set; }
+            public double Price { get; set; }
         }
     }
-
-    class UsedCar
-    {
-        public string VIN { get; set; }
-        public string Make { get; set; }
-        public string Model { get; set; }
-        public int Year { get; set; }
-        public double Price { get; set; }
-    }
 }
+ 
